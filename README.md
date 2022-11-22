@@ -11,7 +11,7 @@
 Using Git Bash on Windows 10 i deploye MHN-Admin with GCP. I followed the instructions using the gcloud commands to create the mhn-admin VM. After i ssh into the mhn-admin vm i install the package using 'git clone' and am able to see the application using the external IP. 
 
 
-https://github.com/MattPlum/Honeypot/blob/341d90ce7fba7171654355edd996efcd3f78cadd/m2.gif
+<img src="https://github.com/MattPlum/Honeypot/blob/341d90ce7fba7171654355edd996efcd3f78cadd/m2.gif"/>
 
 ### Dionaea Honeypot Deployment (Required)
 
