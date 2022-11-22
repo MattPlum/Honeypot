@@ -1,6 +1,6 @@
 # Honeypot Assignment
 
-**Time spent:** **X** hours spent in total
+**Time spent:** **10** hours spent in total
 
 **Objective:** Create a honeynet using MHN-Admin. Present your findings as if you were requested to give a brief report of the current state of Internet security. Assume that your audience is a current employer who is questioning why the company should allocate anymore resources to the IT security team.
 
@@ -9,7 +9,6 @@
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
 Using Git Bash on Windows 10 i deploye MHN-Admin with GCP. I followed the instructions using the gcloud commands to create the mhn-admin VM. After i ssh into the mhn-admin vm i install the package using 'git clone' and am able to see the application using the external IP. 
-
 
 <img src="https://github.com/MattPlum/Honeypot/blob/341d90ce7fba7171654355edd996efcd3f78cadd/m2.gif"/>
 
@@ -24,7 +23,8 @@ Dionaea is one of the many honeypots supported by MHN. It can be chosen through 
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
-RDBMS is Relational Database Management System and the one MHN-Admin uses 
+
+RDBMS is Relational Database Management System and the one MHN-Admin uses ???. The exported JSON file contains the information from the attacks on the honeypot such as which honeypot was attacked, src/dest ports, ip, time, and protocol used. 
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
