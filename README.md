@@ -19,7 +19,7 @@ Using Git Bash on Windows 10 i deploye MHN-Admin with GCP. I followed the instru
 
 Dionaea is one of the many honeypots supported by MHN. It can be chosen through the MHN Admin Deploy page which generates a wget token that enables the honeypot. It has multiple ports open to lure in attackers and collect data on attacks.  
 
-<img src="dionaea-honeypot.gif">
+<img src="https://github.com/MattPlum/Honeypot/blob/b58827d965a9135e22ec2c9e102c817f0b7e4198/honeypot.gif">https://github.com/MattPlum/Honeypot/blob/b58827d965a9135e22ec2c9e102c817f0b7e4198/honeypot.gif
 
 ### Database Backup (Required) 
 
