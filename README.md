@@ -29,7 +29,7 @@ RDBMS is Relational Database Management System and the one MHN-Admin uses google
 https://github.com/MattPlum/Honeypot/blob/d5d4d52d9a56a84d5705e5a91813632295e0663b/session.json)
 ### Deploying Additional Honeypot(s) (Optional)
 
-#### X Honeypot
+#### Snort Honeypot
 
 **Summary:** What does this honeypot simulate and do for a security researcher?
 
