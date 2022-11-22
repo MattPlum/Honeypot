@@ -26,8 +26,7 @@ Dionaea is one of the many honeypots supported by MHN. It can be chosen through 
 
 RDBMS is Relational Database Management System and the one MHN-Admin uses google cloud platform. The exported JSON file contains the information from the attacks on the honeypot such as which honeypot was attacked, src/dest ports, ip, time, and protocol used. 
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
-
+https://github.com/MattPlum/Honeypot/blob/d5d4d52d9a56a84d5705e5a91813632295e0663b/session.json)
 ### Deploying Additional Honeypot(s) (Optional)
 
 #### X Honeypot
