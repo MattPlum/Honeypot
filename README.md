@@ -33,6 +33,8 @@ https://github.com/MattPlum/Honeypot/blob/d5d4d52d9a56a84d5705e5a91813632295e066
 
 **Summary:** What does this honeypot simulate and do for a security researcher?
 
+Snort is an open source network intrusion prevention system, capable of performing real-time traffic analysis and packet logging on IP networks. It can perform protocol analysis, content searching/matching, and can be used to detect a variety of attacks and probes, such as buffer overflows, stealth port scans, CGI attacks, SMB probes, OS fingerprinting attempts, and much more.Snort has three primary uses: It can be used as a straight packet sniffer like tcpdump, a packet logger (useful for network traffic debugging, etc), or as a full blown network intrusion prevention system. Most attackss on this honeypot are using TCP protocol
+
 <img src="x-honeypot.gif">
 
 ### Malware Capture and Identification (Optional)
